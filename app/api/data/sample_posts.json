@@ -1,0 +1,4 @@
+[
+    {"post_id": 1, "title": "Happy Post 1", "category_id": 1},
+    {"post_id": 2, "title": "Neutral Post 1", "category_id": 2}
+]
