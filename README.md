@@ -10,5 +10,5 @@ A Flask-based API for recommending videos to users based on their viewing histor
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/SocialVideoRecommender.git
-   cd SocialVideoRecommender
+   git clone https://github.com/Ranjeeth11/Video-Recommendations-.git
+   cd Video-Recommendations-
